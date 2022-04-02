@@ -1,5 +1,8 @@
 # controller-tone-generator
-Really useful and pleasing to the ears. Plug and play!
+
+Fun patcher that uses the `hi` object to generate sine tones using some controller buttons and axes. Heavy use of `route` and `sel` to make it flexible to handle a lot of HID.
+
+Originally for PlayStation 4.
 
 Demonstration video: https://www.youtube.com/watch?v=xTVvCVA4vgo
 
